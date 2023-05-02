@@ -1,0 +1,5 @@
+{
+  "name": "test-dep",
+  "main": "index.js",
+  "version": "1.0.0"
+}
