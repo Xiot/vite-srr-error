@@ -10,7 +10,6 @@ export default defineConfig({
     VitePluginNode({
       adapter: 'express',
       appPath: './main.ts',
-      tsCompiler: 'swc'
     })
   ]
 })
