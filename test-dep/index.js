@@ -1,3 +1,3 @@
 Object.defineProperty(exports, '__esModule', {value: true})
 
-module.exports = {test: 'dep'}
+module.exports.test = 'dep'
